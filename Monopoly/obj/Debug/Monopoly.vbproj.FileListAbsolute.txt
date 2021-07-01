@@ -20,3 +20,15 @@ C:\Users\trois\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug
 C:\Users\trois\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
 C:\Users\trois\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Resources.resources
 C:\Users\trois\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.vbproj.GenerateResource.Cache
+D:\git\monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\git\monopoly\Monopoly\bin\Debug\Monopoly.exe
+D:\git\monopoly\Monopoly\bin\Debug\Monopoly.pdb
+D:\git\monopoly\Monopoly\bin\Debug\Monopoly.xml
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.vbprojAssemblyReference.cache
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.Resources.resources
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.vbproj.GenerateResource.cache
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.vbproj.CoreCompileInputs.cache
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.exe
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.xml
+D:\git\monopoly\Monopoly\obj\Debug\Monopoly.pdb
